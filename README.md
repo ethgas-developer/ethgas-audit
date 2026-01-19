@@ -1,3 +1,6 @@
 # Audit Reports
 - GWEI token has been audited by Sigma Prime. The mainnet deployment ([0x2798b1cC5A993085E8A9D46e80499F1B63f42204](https://etherscan.io/address/0x2798b1cC5A993085E8A9D46e80499F1B63f42204#code)) has been verified.
-- [ETHGas-Commit](https://github.com/ethgas-developer/ethgas-preconf-commit-boost-module) has been audited
+- Airdrop/Rebate contract has been audited by Sigma Prime. The mainnet deployment ([0x96C1a1a2a0cf75DF0B85661B8c99F40ABF39F6A9](https://etherscan.io/address/0x96C1a1a2a0cf75DF0B85661B8c99F40ABF39F6A9#code)) has been verified.
+- veGWEI token is based on a fork from Curve Finance and it has been audited by Sigma Prime. The mainnet deployment ([0x13aB49189EBC2287E941a82D9Af154130f96Eb21](https://etherscan.io/address/0x13aB49189EBC2287E941a82D9Af154130f96Eb21#code)) has been verified.
+- Staking Reward Distribution contract is based on a fork from Curve Finance and it has been audited by Sigma Prime. The mainnet deployment ([0x2Bd8849CCdf22B53eE10C83529B9863Ff9af2c71](https://etherscan.io/address/0x2Bd8849CCdf22B53eE10C83529B9863Ff9af2c71#code)) has been verified.
+- [ETHGas Commit Module](https://github.com/ethgas-developer/ethgas-preconf-commit-boost-module) has been audited
